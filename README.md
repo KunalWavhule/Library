@@ -1,6 +1,6 @@
 # Library
 
-Step 1. Add the JitPack repository to your build file
+> Step 1. Add the JitPack repository to your build file
 
 '''gradle
 	allprojects {
@@ -10,7 +10,7 @@ Step 1. Add the JitPack repository to your build file
 		}
 	}
   '''
-  Step 2. Add the dependency
+  > Step 2. Add the dependency
   
   '''gradle
   dependencies {
