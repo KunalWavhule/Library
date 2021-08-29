@@ -14,7 +14,7 @@
   
   ```gradle
   dependencies {
-	        implementation 'com.github.KunalWavhule:Library:Tag'
+	        implementation 'com.github.KunalWavhule:Library:1.0.0'
 	}
   
   ```
